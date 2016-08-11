@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TradeItIosEmsApi_Tests' do
+  pod 'TradeItIosEmsApi', :path => '../'
+  
+  
+end
