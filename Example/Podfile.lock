@@ -1,0 +1,16 @@
+PODS:
+  - TradeItIosEmsApi (0.1.0)
+
+DEPENDENCIES:
+  - TradeItIosEmsApi (from `../`)
+
+EXTERNAL SOURCES:
+  TradeItIosEmsApi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TradeItIosEmsApi: b09c88fca37d39ae1522d2b8501f724aeb2e4270
+
+PODFILE CHECKSUM: 284424c4f0a7cd54487122bf0c148e5afd7d9bc8
+
+COCOAPODS: 1.0.1
